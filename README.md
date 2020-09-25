@@ -1,4 +1,18 @@
-# Essential Terms and Test Review
+- [Essential Terms and Test Review](#essential-terms-and-test-review)
+  * [Essential Cloud Concepts](#essential-cloud-concepts)
+  * [Cloud Architecture Approaches:](#cloud-architecture-approaches-)
+  * [Services & Availability](#services---availability)
+  * [Hierarchy within Azure](#hierarchy-within-azure)
+  * [Computer Resources](#computer-resources)
+  * [Azure Storage & Database](#azure-storage---database)
+  * [Networking](#networking)
+  * [Azure Solutions](#azure-solutions)
+  * [AI](#ai)
+  * [DevTest Labs](#devtest-labs)
+  * [Azure Security & Trust](#azure-security---trust)
+  * [Governance & Compliance](#governance---compliance)
+  * [Azure Support & Billing](#azure-support---billing)
+    + [How to Access Azure](#how-to-access-azure)
 
 
 ## Essential Cloud Concepts
