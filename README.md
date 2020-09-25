@@ -442,6 +442,8 @@ these:
 - **Azure Cloud Shell** is an interactive, authenticated, browser-accessible shell for managing
   Azure resources. It provides the flexibility of choosing the shell experience that best suits the
   way you work: either Bash or PowerShell.
+  
+  ## Cost Management
 
 All Azure resources live within a subscription, which is a unit of billing within an Azure
 tenant (account).
